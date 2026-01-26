@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quadro de Sonhos - DevClub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Quadro dos Sonhos</h1>
+        <p>Visualize, Acredite e Conquiste</p>
+    </header>
+
+    <section class="form-container">
+        <form id="dream-form">              <!--O campo required significa "preenchimento obrigatório"-->
+            <input type="url" placeholder="URL da Imagem" required id="image-url">
+            <input type="text" placeholder="Seu Sonho" required id="dream-title">
+            <button type="submit">Adicionar</button>
+        </form>
+    </section>
+
+    <main>
+                <!--APARECE QUANDO NÃO HÁ SONHOS-->
+        <div id="empty-state" class="estado-vazio hidden">
+            <p>Adicione seu Primeiro Sonho</p>
+        </div>
+
+                <!-- GRID DOS CARDS -->
+        <div id="dreams-grid" class="grid-sonhos">
+            <!--CARDS QUE SERÃO INSERIDOS PELO JAVASCRIPT-->
+            <p></p>
+        </div>
+    </main>
+
+    <footer>
+        <p> ❤️ Portfólio ⚡</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

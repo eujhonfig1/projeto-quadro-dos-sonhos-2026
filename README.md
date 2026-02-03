@@ -1,8 +1,10 @@
 <h1 align="center"> 🌟 Quadro dos Sonhos!</h1>
 
-<img href="https://github.com/eujhonfig1/projeto-quadro-dos-sonhos-2026/blob/main/assets/visual%20no%20celular.jpg?raw=true" />
-<img href="https://github.com/eujhonfig1/projeto-quadro-dos-sonhos-2026/blob/main/assets/visual%20no%20pc.jpg?raw=true" />
-<img href="https://github.com/eujhonfig1/projeto-quadro-dos-sonhos-2026/blob/main/assets/visual%20rodando.jpg?raw=true" />
+<p align="center">
+  <img src="https://github.com/eujhonfig1/projeto-quadro-dos-sonhos-2026/blob/main/assets/visual%20no%20celular.jpg?raw=true" />
+  <img src="https://github.com/eujhonfig1/projeto-quadro-dos-sonhos-2026/blob/main/assets/visual%20no%20pc.jpg?raw=true" width="501" /> 
+  <img src="https://github.com/eujhonfig1/projeto-quadro-dos-sonhos-2026/blob/main/assets/visual%20rodando.jpg?raw=true" width="720" />
+</p>
 
 <h2>Um projeto simples e funcional para ajudar na visualização e organização de metas e objetivos pessoais.</h2>
 
